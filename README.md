@@ -1,6 +1,7 @@
 # Predictive Modeling for Energy Usage
 
 ### Project: [WattsNext](https://github.com/iMayuriLakhotia/Predictive-Modeling-for-Energy-Usage/projects?query=is%3Aopen)
+
 A time series forecasting solution using LSTM to predict daily electricity consumption.
 
 ---
